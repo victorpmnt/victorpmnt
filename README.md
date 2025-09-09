@@ -1,7 +1,7 @@
 # Olá, sou o Victor Pimenta  
 
 ### Atualmente faço graduação em Ciência da Computação no Instituto Maua de Tecnologia  
-minhas principais áreas de atuação são em analise de dados com Python/Pandas, desenvolvimento front-end com Flutter e HTML/CSS e estudando JavaScript  
+Estudante de Ciência da Computação com interesse em Segurança da Informação, Governança e setor financeiro. Experiência em programação, automação de processos e controle de acesso. Busco aplicar meus conhecimentos em políticas de segurança, conformidade e gestão de riscos, com foco em boas práticas de confidencialidade, integridade e disponibilidade. Perfil analítico, proativo e atento a detalhes, com motivação para contribuir em ambientes de alta criticidade como o mercado bancário e de investimentos.
 
 <div>
   <a href="https://github.com/victorpmnt">
