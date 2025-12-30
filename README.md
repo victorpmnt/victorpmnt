@@ -1,17 +1,56 @@
-# Olá, sou o Victor Pimenta  
+# Victor Pimenta
 
-### Atualmente faço graduação em Ciência da Computação no Instituto Maua de Tecnologia  
-Estudante de Ciência da Computação com interesse em Segurança da Informação, Governança e setor financeiro. Experiência em programação, automação de processos e controle de acesso. Busco aplicar meus conhecimentos em políticas de segurança, conformidade e gestão de riscos, com foco em boas práticas de confidencialidade, integridade e disponibilidade. Perfil analítico, proativo e atento a detalhes, com motivação para contribuir em ambientes de alta criticidade como o mercado bancário e de investimentos.
+Estudante de Ciência da Computação.
+Desenvolvo sistemas com foco em segurança, arquitetura e automação.
 
-<div>
-  <a href="https://github.com/victorpmnt">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpmnt&layout=compact&langs_count=7&theme=merko"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpmnt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+Meu interesse principal está em **Segurança da Informação aplicada**, não como checklist, mas como parte das decisões de projeto: controle de acesso, separação de responsabilidades, análise de logs e segurança desde a concepção.
+
+Aqui você vai encontrar projetos envolvendo:
+- aplicações full stack com APIs seguras
+- sistemas ERP e dashboards analíticos
+- automação e integração de agentes de IA
+- estudos práticos em cloud e segurança
+
+---
+
+## Como eu penso segurança
+
+Segurança, para mim, começa antes do código:
+- menos permissões, mais controle
+- decisões simples, explícitas e auditáveis
+- arquitetura que reduz risco, não que oculte problemas
+- código legível é parte da segurança
+
+Costumo aplicar princípios como least privilege, RBAC e security by design de forma prática, principalmente em aplicações web e APIs.
+
+---
+
+## Stack principal
+
+**Linguagens e frameworks**  
+Python, JavaScript, Java, Dart/Flutter, React, SQL
+
+**Banco de dados**  
+PostgreSQL, MySQL, MongoDB
+
+**Segurança e infraestrutura**  
+RBAC, análise de logs, APIs seguras, AWS, Docker
+
+**Ferramentas**  
+Git, GitHub, VS Code, IntelliJ, Power BI
+
+---
+
+
+## GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpmnt&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpmnt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </div>
 
-### 
-# 
-  
+---
+ 
 ### O que estou aprendendo
 <div>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
