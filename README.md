@@ -1,76 +1,31 @@
-# Victor Pimenta
+<img src="assets/banner.svg" width="100%" alt="banner" />
 
-Estudante de Ciência da Computação.
-Desenvolvo sistemas com foco em segurança, arquitetura e automação.
+Construo aplicações com foco em segurança, arquitetura e automação.
+Segurança para mim é decisão de design: controle de acesso, rastreabilidade, limites e padrões simples.
 
-Meu interesse principal está em **Segurança da Informação aplicada**, não como checklist, mas como parte das decisões de projeto: controle de acesso, separação de responsabilidades, análise de logs e segurança desde a concepção.
+## Destaques
+- Segurança aplicada em APIs e aplicações web (RBAC, least privilege, logs)
+- Desenvolvimento full stack (React, Python, PostgreSQL, Docker)
+- Cloud e automação (AWS, CI/CD básico)
+- IA aplicada quando faz sentido (integração e protótipos)
 
-Aqui você vai encontrar projetos envolvendo:
-- aplicações full stack com APIs seguras
-- sistemas ERP e dashboards analíticos
-- automação e integração de agentes de IA
-- estudos práticos em cloud e segurança
+## Projetos
+- AgroBot: visão computacional e automação para seleção de morangos
+- Wimar Acessórios: e-commerce full stack com foco em estrutura e controle de acesso
+- Nutri Pet: app mobile em Flutter com integração de dados
 
----
+## Stack
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-## Como eu penso segurança
-
-Segurança, para mim, começa antes do código:
-- menos permissões, mais controle
-- decisões simples, explícitas e auditáveis
-- arquitetura que reduz risco, não que oculte problemas
-- código legível é parte da segurança
-
-Costumo aplicar princípios como least privilege, RBAC e security by design de forma prática, principalmente em aplicações web e APIs.
-
----
-
-## Stack principal
-
-**Linguagens e frameworks**  
-Python, JavaScript, Java, Dart/Flutter, React, SQL
-
-**Banco de dados**  
-PostgreSQL, MySQL, MongoDB
-
-**Segurança e infraestrutura**  
-RBAC, análise de logs, APIs seguras, AWS, Docker
-
-**Ferramentas**  
-Git, GitHub, VS Code, IntelliJ, Power BI
-
----
-
-
-## GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpmnt&layout=compact&langs_count=7&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpmnt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
-
----
- 
-### O que estou aprendendo
+## Contato
 <div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" width="40" height="40"/>
-</div>
-
-### Meios de contato
-
-<div>
-  <a href="https://instagram.com/victor.pmnt" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/victor_pim3nta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorpimenta9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-pimenta-41a1a5270/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/victor.pmnt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.twitch.tv/victor_pim3nta" target="_blank"><img src="https://img.shields.io/badge/-Twitch-111111?style=for-the-badge&logo=twitch&logoColor=white"></a>
+  <a href="mailto:victorpimenta9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victor-pimenta-41a1a5270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
